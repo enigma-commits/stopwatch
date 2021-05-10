@@ -1,0 +1,39 @@
+body {
+  background-color: #939b62;
+}
+#tt {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translateX(-50%) translateY(-50%);
+  text-align: center;
+  border: 1px solid #999;
+  background-color: #ffd56b;
+  background-color: ;
+  padding: 40px;
+  font-size: 2.5rem;
+  color: white;
+  font-weight: bold;
+  box-shadow: 0 0 5px 3px #ccc;
+}
+.time {
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
+  color: #ff7b54;
+  padding: 50px;
+  font-size: 3rem;
+}
+.btn {
+  background-color: #ffd56b;
+  color: #ff7b54;
+  font-size: 2rem;
+}
+#heading {
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
+  font-size: 5rem;
+  color: #ff7b54;
+  padding: 50px;
+}
